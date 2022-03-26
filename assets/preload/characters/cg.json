@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-121
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "idle",
+			"indices": [],
+			"name": "cassettegirl idle"
+		},
+		{
+			"offsets": [
+				-2,
+				-119
+			],
+			"loop": true,
+			"fps": 60,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cassettegirl left"
+		},
+		{
+			"offsets": [
+				-2,
+				-120
+			],
+			"loop": true,
+			"fps": 60,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cassettegirl right"
+		},
+		{
+			"offsets": [
+				2,
+				-122
+			],
+			"loop": true,
+			"fps": 60,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cassettegirl down"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": true,
+			"fps": 60,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cassettegirl up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cassettegirl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cg",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
